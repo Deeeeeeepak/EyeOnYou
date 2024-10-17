@@ -1,4 +1,5 @@
-EyeOnYou - Drowsiness Detection System
+#EyeOnYou 
+- Drowsiness Detection System
 Overview
 EyeOnYou is a real-time drowsiness detection system that monitors driver alertness by analyzing eye aspect ratio (EAR) through webcam input. If drowsiness is detected, an alarm is triggered to alert the driver.
 
